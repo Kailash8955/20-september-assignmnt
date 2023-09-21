@@ -1,0 +1,40 @@
+ANS1=
+
+#include<stdio.h>
+int main(){
+printf("hello hii how are you ");
+return 0;
+}
+-------------------------------------------------------------------------------
+answer2-
+
+#include<stdio.h>
+int main(){
+printf("Mango \n apple \n banana  \n grapes \n kivi");
+	
+	return 0;
+}
+---------------------------------------------------------------------------------
+answer3=
+#include<stdio.h>
+int main(){
+printf("India \n Nepal \n Bhutan \n Bangladesh \n sri Lanka ");
+return 0;
+}
+---------------------------------------------------------------------------------
+
+
+answer4 =
+#include<stdio.h>
+int main(){
+printf("anil \n nagendra \n kailash \n ashutosh \n param ");
+return 0;
+}
+----------------------------------------------------------------------------------
+answer5=
+#include<stdio.h>
+int main(){
+printf("hello y \n ou are the best\n friend ");
+return 0;
+}
+----------------------------------------------------------------------------------
